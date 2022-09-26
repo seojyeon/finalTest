@@ -7,6 +7,7 @@ public class test1 {
 		System.out.println("실험");
 		System.out.println("두번째~");
 		
+		
 	}
 
 }
